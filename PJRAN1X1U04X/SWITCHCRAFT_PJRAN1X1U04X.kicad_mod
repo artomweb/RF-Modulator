@@ -311,7 +311,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "d49836cc-a491-4fd0-886c-da36cadddade")
 	)
-	(pad "3" thru_hole oval
+	(pad "2" thru_hole oval
 		(at 3.75 -3.7)
 		(size 1.8 3.6)
 		(drill oval 1 2.5)
