@@ -4,4 +4,5 @@ This is a KiCad board for the UHF TV Modulator described in a [1977 magazine art
 
 The project has been documented before by [another creator](http://www.qrp.gr/tvmod/index.htm) with a home etched PCB.
 
-![3D view of board in KiCad](image.png)
+<img src="image.png" width="300">
+
